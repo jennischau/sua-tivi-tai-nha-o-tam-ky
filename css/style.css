@@ -367,6 +367,9 @@ footer .logo .logo-threads{
     height: 32px;
 }
 @media (max-width: 768px) {
+    .header .navbar-brand{
+        display: none !important;
+    }
     .banner{
         display: none !important;
     }
